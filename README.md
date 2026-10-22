@@ -22,12 +22,34 @@ Sitio publicado: https://AndresFelipeOrozcoPaternina.github.io/parche-dev/
 ## Decisiones que tomé
 
 - (Explica al menos tres decisiones: por qué elegiste una etiqueta y no otra.)
-- (Responde las preguntas del apartado “Investiga” del ticket 5.)
+
+### 5.1. ¿Qué aparece después del ??
+
+Aparece toda la información que pusimos en el formulario pegadita ahí arriba.
+
+### 5.2. ¿Cómo se ven los espacios, las tildes y la arroba?
+
+Los espacios salen como un + la arroba sale con un % (como %40) y las tildes a veces se ven normales o con codigos raros
+
+### 5.3. ¿Qué pasa con los campos que no llenaste?
+
+No aparecen para nada en la URL el navegador los ignora
+
+### 5.4. ¿Por qué un formulario con contraseñas nunca debería usar method="get"?
+
+Porque la contraseña quedaria a la vista de cualquiera en la barra de arriba el método GET es solo para datos públicos que todo el mundo pueda ver.
 
 ## Lo que aprendí
 
-- (Al menos tres aprendizajes de la jornada.)
+- Aprender hacer tablas y unir las filas
+- Poner un icono en las paginas web 
+- Agregar mapas en el html
+
+## Lighthouse
+
+
+
+
 
 ## Hecho por
-
 Tu nombre · [GitHub](https://github.com/AndresFelipeOrozcoPaternina)
