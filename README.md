@@ -21,7 +21,8 @@ Sitio publicado: https://AndresFelipeOrozcoPaternina.github.io/parche-dev/
 
 ## Decisiones que tomé
 
-- (Explica al menos tres decisiones: por qué elegiste una etiqueta y no otra.)
+- Puse nav ya que lo que esta adentro es un menu de navegacion
+- 
 
 ### 5.1. ¿Qué aparece después del ??
 
@@ -52,4 +53,4 @@ Porque la contraseña quedaria a la vista de cualquiera en la barra de arriba el
 
 
 ## Hecho por
-Tu nombre · [GitHub](https://github.com/AndresFelipeOrozcoPaternina)
+Andres Felipe Orozco Paternina· [GitHub](https://github.com/AndresFelipeOrozcoPaternina)
